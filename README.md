@@ -1,1 +1,1 @@
-# ReactProject: The react is a blog simple project developed using react js. 
+# ReactProject:This is a simple a blog project developed using react js. 
